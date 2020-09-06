@@ -1,0 +1,1 @@
+# szkrkr.github.io
