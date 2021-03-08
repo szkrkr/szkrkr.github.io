@@ -1,0 +1,22 @@
+.top-page-profile {/*親div*/
+  position: relative;
+  }
+
+.top-page-profile p {
+  position: absolute;
+  font-size: 1em;/*サイズ2倍*/
+  font-family :Quicksand, sans-serif;/*Google Font*/
+  top: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  }
+
+.top-page-profile img {
+  width: 100%;
+  }
+
+.post-list {
+  height: 300px;
+  overflow: scroll;
+}
