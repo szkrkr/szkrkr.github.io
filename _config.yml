@@ -26,6 +26,7 @@ github_username:  szkrkr
 header_pages:
   - profile.md
   - works.md
+notebook_url: "https://szkrkr.github.io/notebook/" # External Link For Notebook. It's managed in other repository.
 
 # Build settings
 markdown: kramdown
