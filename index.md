@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# {{ site.title }}
 ## What is?
 <div class="top-page-profile">
   <p>
