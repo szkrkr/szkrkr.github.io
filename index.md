@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Szkrkr's Portfolio
+# {{ site.title }}
 ## What is?
 <div class="top-page-profile">
   <p>
