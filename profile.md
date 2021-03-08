@@ -13,12 +13,11 @@ permalink: /profile/
 ## Qualifications
 
 * Licensed Scrum Master (2020/09) <br/>
-<img src="../assets/SMLogo.png" alt="LSM logo" width="200px" />
-
+<img src="../assets/SMLogo.png" alt="LSM logo" width="200px" height="100%" />
 
 ## Github Contribution Graph
 
-<img src="https://grass-graph.moshimo.works/images/szkrkr.png">
+<img src="https://grass-graph.moshimo.works/images/szkrkr.png" alt="github contribution graph" width="100%" height="100%">
 
 ## Languages over All Time
 
