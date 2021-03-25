@@ -24,8 +24,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "szkrkr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: szkrkr
 header_pages:
-  - profile.md
-  - works.md
+  - profile/index.md
+  - works/index.md
 notebook_url: "https://szkrkr.github.io/notebook/" # External Link For Notebook. It's managed in other repository.
 
 # Build settings
