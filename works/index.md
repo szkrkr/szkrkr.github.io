@@ -15,16 +15,19 @@ Interfaces for ACHEX (https://achex.ca/)
 
 ## Sites
 
-### 👉 <a href="https://band-age.net" target="_blank">Bandage</a><br/>
-<img style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);" src="../assets/Bandage-Top.png" alt="Bandage Top Page" width="30%">
+<hr>
+
+### 👉 <a href="https://share-dice-rolls.com/" target="_blank">Share Dice Rolls</a><br/>
+<img style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);" src="../assets/share-dice-rolls-Top.png" alt="Share Dice Rolls Top Page" width="30%">
 #### Overview
-It's a site for bandsman (JP).    
-First, you can adjust your schedule with your group's members.
+You can roll dices and share results with members in a room has a same name.
 
 #### Technology
-* Platform: Firebase (authetication, firesotre, storage, hosting)
+* Platform: Firebase (hosting)
 * Front: JavaScript / TypeScript / React / Redux
+* Library: [rpg-dice-roller package](https://www.npmjs.com/package/rpg-dice-roller)
 
+<hr>
 
 ### 👉 <a href="https://npoyui.com" target="_blank">結の会</a><br/>
 <img style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);" src="../assets/Yuinokai-TOP.png" alt="Yuinokai Top Page">
@@ -37,6 +40,19 @@ I'm in charge of configure Server (さくらインターネット), WordPress, m
 * DB: MySQL
 * CMS: WordPress
 
+<hr>
+
+### 👉 <a href="https://band-age.net" target="_blank">Bandage</a><br/>
+<img style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);" src="../assets/Bandage-Top.png" alt="Bandage Top Page" width="30%">
+#### Overview
+It's a site for bandsman (JP).    
+First, you can adjust your schedule with your group's members.
+
+#### Technology
+* Platform: Firebase (authetication, firesotre, storage, hosting)
+* Front: JavaScript / TypeScript / React / Redux
+
+<hr>
 
 ### 👉 <a href="https://onsens-dev.web.app/" target="_blank">温泉リスト</a><br/>
 <img style="box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);" src="../assets/onsens.png" alt="Onsen List Top Page">
